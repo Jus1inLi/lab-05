@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Justin(zekuan) Li`
+- **CCID:** `zekuan`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Claude for debugging and syntax help
 
 ## Verbal Collaboration
 
